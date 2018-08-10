@@ -1,2 +1,2 @@
 # hello-world
-Learning github examle
+Learning github example.
